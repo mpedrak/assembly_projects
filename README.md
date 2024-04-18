@@ -1,3 +1,3 @@
-# Prosty kalkulator oraz rysowanie elipsy
+# A simple calculator and drawing an ellipse
 
-Dwa projekty stworzone na potrzeby kursu Programowanie w języku Asembler AGH w roku 2022/2023 na procesor Intel 8086 emulowany na maszynie wirtualnej DOS BOX.
+Two projects created for the AGH UST assembly language programming course in 2022/2023 for the Intel 8086 processor emulated on a DOS BOX virtual machine.
